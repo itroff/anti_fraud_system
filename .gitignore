@@ -1,0 +1,30 @@
+# Project exclude paths
+/.gradle/
+/Anti-Fraud System/task/build/
+/Anti-Fraud System/task/out/production/classes/
+/Topics/Builder/Builder/out/
+/Topics/Builder/Builder/out/production/classes/
+/Topics/Builder/Builder (1)/out/
+/Topics/Builder/Builder (1)/out/production/classes/
+/Topics/Builder/Describe the builder/out/
+/Topics/Builder/Describe the builder/out/production/classes/
+/Topics/Builder/Disadvantage of Builder pattern/out/
+/Topics/Builder/Disadvantage of Builder pattern/out/production/classes/
+/Topics/Builder/Geek Builder/out/
+/Topics/Builder/Geek Builder/out/production/classes/
+/Topics/Builder/Robot Builder/out/
+/Topics/Builder/Robot Builder/out/production/classes/
+/Topics/Constructor/Account and its owner/out/
+/Topics/Constructor/Account and its owner/out/production/classes/
+/Topics/Constructor/Constructor definition/out/
+/Topics/Constructor/Constructor definition/out/production/classes/
+/Topics/Constructor/Theory/out/
+/Topics/Constructor/Theory/out/production/classes/
+/Topics/Generic methods/Check for null/out/
+/Topics/Generic methods/Check for null/out/production/classes/
+/Topics/Optional/A suitable method/out/
+/Topics/Optional/A suitable method/out/production/classes/
+/Topics/Optional/Sum up optional values/out/
+/Topics/Optional/Sum up optional values/out/production/classes/
+/Topics/Optional/Theory/out/
+/Topics/Optional/Theory/out/production/classes/
